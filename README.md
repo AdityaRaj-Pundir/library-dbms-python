@@ -146,7 +146,7 @@ Users are fined for keeping a book longer than 2 weeks. The users are charged 5 
 <img width="456" height="251" alt="image" src="https://github.com/user-attachments/assets/9b54937a-9677-4960-917d-84797a2f695f" />
 
 ## Database Details
-Once you have connected Python to MySQL (It should be done automatically on the first run of the `.py` file, the database should be created automatically.
+Once you have connected Python to MySQL (It should be done automatically on the first run of the `.py` file), the database should be created automatically.
 
 ### Library Database:
 <img width="259" height="197" alt="image" src="https://github.com/user-attachments/assets/2cf0e1e4-43a3-4ba5-a008-fc71f9c64961" />
